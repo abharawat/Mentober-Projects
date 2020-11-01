@@ -17,10 +17,10 @@ It contains
 Build with:HTML,CSS and Javascript.
 
 # Mentee
-Abha Rawat
+Abha Rawat   url:https://github.com/abharawat
 
 # Mentor
-Dhriti Saini
+Dhriti Saini   url:https://github.com/dhritisaini
 
 # Get started
 Hosted using: Netlify.app.com
